@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chenshimao.github.io/about/index.html</loc>
+    
+    <lastmod>2019-09-29T00:28:43.704Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://chenshimao.github.io/tags/index.html</loc>
     
     <lastmod>2019-09-28T23:57:31.928Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://chenshimao.github.io/archives/index.html</loc>
     
     <lastmod>2019-09-28T23:57:31.922Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://chenshimao.github.io/about/index.html</loc>
-    
-    <lastmod>2019-09-28T23:57:31.921Z</lastmod>
     
   </url>
   
