@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chenshimao.github.io/"/>
-  <updated>2020-02-08T06:22:06.109Z</updated>
+  <updated>2020-02-08T08:17:04.736Z</updated>
   <id>https://chenshimao.github.io/</id>
   
   <author>
@@ -17,16 +17,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>article title</title>
+    <title>HTML学习笔记</title>
     <link href="https://chenshimao.github.io/2020/02/08/article-title/"/>
     <id>https://chenshimao.github.io/2020/02/08/article-title/</id>
     <published>2020-02-08T06:22:06.000Z</published>
-    <updated>2020-02-08T06:22:06.109Z</updated>
+    <updated>2020-02-08T08:17:04.736Z</updated>
     
     <summary type="html">
     
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;web标准的构成&lt;/strong&gt;：主要包括结构、表现、行为&lt;br&gt;|标准|说明        
+        
+      
+    
     </summary>
     
+    
+      <category term="HTML" scheme="https://chenshimao.github.io/tags/HTML/"/>
     
   </entry>
   
